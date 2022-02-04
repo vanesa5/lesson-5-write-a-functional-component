@@ -1,6 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+//my imports below this line//
+import NameTage from "./NameTag.js";
+
+//my imports above this line//
+
 import "./styles.css";
 
 const App = () => (
